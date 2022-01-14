@@ -1,6 +1,5 @@
 {
   "hosting": {
-    "site": "christmasi",
     "public": "public",
     "ignore": [
       "firebase.json",
