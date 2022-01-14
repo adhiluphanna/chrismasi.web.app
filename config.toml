@@ -1,6 +1,6 @@
-baseURL = "https://chrismasi.web.app/"
+baseURL = "https://christmasi.web.app/"
 languageCode = "en-us"
-title = "Chrismasi"
+title = "christmasi"
 theme = "x"
 
 [taxonomies]
@@ -13,7 +13,7 @@ theme = "x"
 [params]
   description = "The place for more than 10,000 popular Christmas for your Christmas celebration"
   topdescription = "The place for more than 10,000 popular Christmas for your Christmas celebration"
-  toptitle = "Chrismasi"
+  toptitle = "christmasi"
   contentBackgroundColor = "#fff"
   contentLinkColor = "#007bff"
   contentLinkHoverColor = "#0056b3"
@@ -41,7 +41,7 @@ theme = "x"
 
 [author]
     name = "Natalia Bernadette"
-    homepage = "https://chrismasi.web.app/"
+    homepage = "https://christmasi.web.app/"
     bio = "True Food Lover"
     image = "https://i.imgur.com/qNQv8nK.jpg"
 
