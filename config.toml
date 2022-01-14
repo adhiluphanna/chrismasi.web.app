@@ -1,7 +1,7 @@
 baseURL = "https://chrismasi.web.app/"
 languageCode = "en-us"
 title = "Chrismasi"
-theme = "z"
+theme = "x"
 
 [taxonomies]
   tag = ""
