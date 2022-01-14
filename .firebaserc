@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "chrismasi"
+    "default": "chrismasi",
+    "chrismasi": "christmasi"
   }
 }
